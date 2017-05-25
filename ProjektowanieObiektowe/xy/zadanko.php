@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>OOP w PHP</title>
 <meta charset="utf-8" />
 </head>
 <body>
@@ -28,8 +27,8 @@ class punkt{
 }
 
 $obiekt=new punkt(1024,2048);
-$z=$obiekt->fajne();
-print($z);
+$a=$obiekt->fajne();
+print($a);
 
 
 
